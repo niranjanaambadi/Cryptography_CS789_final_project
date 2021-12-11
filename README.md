@@ -6,7 +6,7 @@ Bob: Receiver
 Eve: Eavesdropper
 
 
-##THEORY
+## THEORY
 
 The ElGamal and  RSA are two algorithms for public key encryption.
 
