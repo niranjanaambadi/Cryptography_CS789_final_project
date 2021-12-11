@@ -32,7 +32,9 @@ This still doesnot make RSA totally immune to eavesdropping. If one of the prime
 ##  How to execute?
 
 I have implemented a driver.py file which should be run after downloading the repository.
-This would prompt the user to select 1)Algorithm (RSA/ElGamal) 2) Role he/she plays (Alice/Bob/Eve)
+This would prompt the user to select 
+1. Algorithm (RSA/ElGamal) 
+2. Role he/she plays (Alice/Bob/Eve)
 
 Do as directed and you get the system working!
 
