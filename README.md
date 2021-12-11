@@ -29,7 +29,7 @@ any reasonable amount of time, where p and q are two large primes and n their pr
 
 This still doesnot make RSA totally immune to eavesdropping. If one of the primes is significantly smaller than the other, it is possible to break RSA using Pollard's rho algorithm which is beautifully explained here: https://www.geeksforgeeks.org/pollards-rho-algorithm-prime-factorization/
 
-##  How to execute?
+##  HOW TO EXECUTE?
 
 I have implemented a driver.py file which should be run after downloading the repository.
 This would prompt the user to select 
