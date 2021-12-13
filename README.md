@@ -38,7 +38,7 @@ This would prompt the user to select
 
 Do as directed and you get the system working!
 
-Alice is the sender. Bob is the receiver and Eve is the eavesdropper
+Please note that the project implementation is a bit different than the pdfs I have linked here. Alice is the sender. Bob is the receiver and Eve is the eavesdropper
 ## Testing
 
 The files contain various conditional checks that are inserted for testing. For example, to generate prime I have used Miller-Rabin primality test .
