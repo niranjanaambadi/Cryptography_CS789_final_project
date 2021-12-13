@@ -39,6 +39,6 @@ This would prompt the user to select
 Do as directed and you get the system working!
 
 Alice is the sender. Bob is the receiver and Eve is the eavesdropper
-##Testing
+## Testing
 
-Though explicit unit tests are not written, the files contain various conditional checks that are inserted for testing. For example, to generate prime I have used Miller-Rabin primality test .
+The files contain various conditional checks that are inserted for testing. For example, to generate prime I have used Miller-Rabin primality test .
