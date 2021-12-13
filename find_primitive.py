@@ -116,10 +116,4 @@ def findPrimitive( n) :
 	# If no primitive root found
 	return -1
 
-# Driver Code
-n = 761
-print("Smallest primitive root of",
-		n, "is", findPrimitive(n))
 
-# This code is contributed by
-# Shubham Singh(SHUBHAMSINGH10)
