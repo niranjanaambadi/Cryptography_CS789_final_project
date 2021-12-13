@@ -33,8 +33,10 @@ This still doesnot make RSA totally immune to eavesdropping. If one of the prime
 
 I have implemented a driver.py file which should be run after downloading the repository.
 This would prompt the user to select 
-1. Algorithm (RSA/ElGamal) 
-2. Role he/she plays (Alice/Bob/Eve)
+1. Role he/she plays (Alice/Bob/Eve)
+2. Algorithm:RSA/ElGamal (R/E)
 
 Do as directed and you get the system working!
+
+Alice is the sender. Bob is the receiver and Eve is the eavesdropper
 
